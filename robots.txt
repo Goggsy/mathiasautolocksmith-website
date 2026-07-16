@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets/velyntic-badge.png
+
+Sitemap: https://mathiasautolocksmith.co.uk/sitemap.xml
